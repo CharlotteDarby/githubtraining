@@ -1,7 +1,8 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: 2023-11-15
+- Facilitator: Madelyn K.
+- Name: Charlotte Darby
 
 ## Class Resources
 
