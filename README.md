@@ -2,7 +2,7 @@
 
 - Class Date: 2023-11-15
 - Facilitator: Madelyn K.
-- Name: Charlotte Darby
+- Name: Charlotte Darby More Changes
 
 ## Class Resources
 
